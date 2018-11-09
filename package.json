@@ -35,6 +35,8 @@
     "tslint-config-standard": "^8.0.1"
   },
   "devDependencies": {
+    "@types/benchmark": "^1.0.31",
+    "@types/microtime": "^2.1.0",
     "typescript": "^3.1.6"
   },
   "lint-staged": {
